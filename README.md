@@ -1,2 +1,5 @@
 # pyspark
-All exercises with python and spark
+All exercises with 
+ - Python 
+ - Apache Spark
+ - Scala
