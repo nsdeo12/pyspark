@@ -1,0 +1,16 @@
+location,String
+iso_code,String
+date,Date
+total_vaccinations,Number
+people_vaccinated,Number
+people_fully_vaccinated,Number
+total_boosters,Number
+daily_vaccinations_raw,Number
+daily_vaccinations,Number
+total_vaccinations_per_hundred,Double
+people_vaccinated_per_hundred,Double
+people_fully_vaccinated_per_hundred,Double
+total_boosters_per_hundred,Double
+daily_vaccinations_per_million,Double
+daily_people_vaccinated,Double
+daily_people_vaccinated_per_hundred,Double

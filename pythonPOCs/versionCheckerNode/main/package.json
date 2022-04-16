@@ -1,0 +1,22 @@
+{
+  "name": "versionchecker",
+  "version": "1.0.0",
+  "description": "package version comparison",
+  "main": "versionChecker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "npm",
+    "version",
+    "checker",
+    "for",
+    "update"
+  ],
+  "author": "Nilakantha Singh Deo",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
